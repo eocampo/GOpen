@@ -39,6 +39,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AsynchronousSocketListener.cs" />
+    <Compile Include="MyArrayList.cs" />
+    <Compile Include="MyIpAdressList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SynchronousSocketListener.cs" />
