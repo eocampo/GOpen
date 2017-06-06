@@ -13,6 +13,7 @@ namespace EOPenServer
         static int Main(string[] args) {
             Console.WriteLine("GOpen Server 1.0.0.0");
             SynchronousSocketListener.StartListening();
+            //MainTest.Run();
             return 0;
         }
     }
